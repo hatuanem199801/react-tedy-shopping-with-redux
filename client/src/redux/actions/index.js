@@ -1,0 +1,7 @@
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
+export const FECTH_ORDER = "FECTH_ORDER";
+export const ADD_ORDER = "ADD_ORDER";
+export const REMOVE_ORDER = "REMOVE_ORDER";
+export const INCREMENT_ORDER = "INCREMENT_ORDER";
+export const DECREMENT_ORDER = "DECREMENT_ORDER";
+export const CHECK_OUT = "CHECK_OUT";
