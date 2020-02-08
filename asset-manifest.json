@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-tedy-shopping-with-redux/static/css/main.01eb59e9.chunk.css",
+    "main.js": "/react-tedy-shopping-with-redux/static/js/main.a972d5cd.chunk.js",
+    "main.js.map": "/react-tedy-shopping-with-redux/static/js/main.a972d5cd.chunk.js.map",
+    "runtime-main.js": "/react-tedy-shopping-with-redux/static/js/runtime-main.4d04f3f7.js",
+    "runtime-main.js.map": "/react-tedy-shopping-with-redux/static/js/runtime-main.4d04f3f7.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-tedy-shopping-with-redux/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c765875e.chunk.js": "/react-tedy-shopping-with-redux/static/js/2.c765875e.chunk.js",
+    "static/js/2.c765875e.chunk.js.map": "/react-tedy-shopping-with-redux/static/js/2.c765875e.chunk.js.map",
+    "index.html": "/react-tedy-shopping-with-redux/index.html",
+    "precache-manifest.936d136787361ef2b8ff60ee7299a713.js": "/react-tedy-shopping-with-redux/precache-manifest.936d136787361ef2b8ff60ee7299a713.js",
+    "service-worker.js": "/react-tedy-shopping-with-redux/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-tedy-shopping-with-redux/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.01eb59e9.chunk.css.map": "/react-tedy-shopping-with-redux/static/css/main.01eb59e9.chunk.css.map",
+    "static/media/apple-drinks.jpg": "/react-tedy-shopping-with-redux/static/media/apple-drinks.69cec1ec.jpg",
+    "static/media/icecream.jpg": "/react-tedy-shopping-with-redux/static/media/icecream.9e592edb.jpg",
+    "static/media/soda.jpg": "/react-tedy-shopping-with-redux/static/media/soda.9e8968b6.jpg",
+    "static/media/tomato-juice.jpg": "/react-tedy-shopping-with-redux/static/media/tomato-juice.9c31209c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d04f3f7.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c765875e.chunk.js",
+    "static/css/main.01eb59e9.chunk.css",
+    "static/js/main.a972d5cd.chunk.js"
+  ]
+}
